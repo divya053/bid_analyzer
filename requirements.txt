@@ -22,4 +22,7 @@ python-dotenv
 # by following the instructions on the official website: https://pytorch.org/get-started/locally/
 # The line below is for CPU-only as a general fallback.
 torch
+
 torchvision
+
+opencv-python-headless
